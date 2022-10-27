@@ -48,24 +48,6 @@ This is an example for jenkins pipeline
 
 <h1>This is a test change</h1>
 <h1>this skoda slavia project</h1>
-<h1>Again trigger the pipeline</h1>
-<h2>This is jenkins pipeline example</h1>
-<h1>This is a test change</h1>
-<h1>This change will trigger jenkins job</h1>
-<h1>This is a test job</h1>
-<h1>This change should be deployed automatically</h1>
-<h1>Trigger the job again<h1>
-<h1>This is a webhooks example</h1>
-<h1>Distributed build example</h1>
-<h1>Declaratrive piupeline example</h1>
-<h1>Example for hjenkins pipeline</h1>
-<h1>This will trigger jenkins job</h1>
-<h1>another change</h1>
-<h1>Another trigger</h1>
-<h1>Jenkins pipeline example</h1>
-<h1>Some more changes</h1>
-<h1>This is atest change</h1>
-<h1>Crweated dockerfile</h1>
 <h2>Changes for central repo</h2>
 anotehr change from local repo
 this is ach== change from local repo
