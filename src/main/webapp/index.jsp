@@ -49,6 +49,8 @@ This is an example for jenkins pipeline
 <h1>This is a test change</h1>
 <h1>this skoda kushaq project</h1>
 <h1>this skoda slavia project</h1>
+<h1>skoda slavia and kushaq both are made on MQB platform</h1
+>
      produced_by_hitman
 
 <h2>Changes for central repo</h2>
