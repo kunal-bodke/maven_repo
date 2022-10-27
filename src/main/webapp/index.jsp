@@ -49,7 +49,7 @@ This is an example for jenkins pipeline
 <h1>This is a test change</h1>
 <h1>this skoda kushaq project</h1>
 <h1>this skoda slavia project</h1>
-     hitman
+     produced_by_hitman
 <h2>Changes for central repo</h2>
 anotehr change from local repo
 this is ach== change from local repo
