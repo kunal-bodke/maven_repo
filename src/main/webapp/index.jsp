@@ -52,7 +52,7 @@ This is an example for jenkins pipeline
 <h1>skoda slavia and kushaq both are made on MQB platform</h1
 >
      produced_by_hitman
-<h1>skoda new model will launch soon</h1>
+<h1>45</h1>
 
 <h2>Changes for central repo</h2>
 anotehr change from local repo
