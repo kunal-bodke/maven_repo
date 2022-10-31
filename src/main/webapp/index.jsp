@@ -52,8 +52,7 @@ This is an example for jenkins pipeline
 <h1>kodiaq has been launched</h1
 >
      produced_by_hitman45
-<h1>world cup 2022</h1>
-<h1>sharma is the key player</h1>
+<h1>will india win world cup 2022?</h1>
 
 <h2>Changes for central repo</h2>
 anotehr change from local repo
