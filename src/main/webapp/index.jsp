@@ -52,7 +52,7 @@ This is an example for jenkins pipeline
 <h1>kodiaq has been launched</h1
 >
      produced_by_hitman
-<h1>45_HiTman_45</h1>
+<h1>world cup 2022</h1>
 
 <h2>Changes for central repo</h2>
 anotehr change from local repo
