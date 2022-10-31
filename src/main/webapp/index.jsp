@@ -47,9 +47,9 @@ This is an example for jenkins pipeline
     <h1>This will trigger the jenkins job using the webhooks</h1>
 
 <h1>This is a test change</h1>
-<h1>this skoda kushaq project</h1>
-<h1>this skoda slavia project</h1>
-<h1>kodiaq has been launched</h1
+<h1>kushaq</h1>
+<h1>slavia</h1>
+<h1>kodiaq</h1
 >
      produced_by_hitman45
 <h1>will india win world cup 2022?</h1>
